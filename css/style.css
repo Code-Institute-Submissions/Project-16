@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+.font-fredoka {
+    font-family: 'Fredoka One', cursive;
+}
+.list-group-item {
+    border: none !important;
+}
+.bg-grape {
+    background-color: #353a40;
+}
+.badge-secondary {
+    background-color: rgba(0, 0, 0, 0.05);
+    line-height: 22px;
+    padding: 5px 10px !important;
+    border-radius: 3px !important;
+    color: rgba(0, 0, 0, 0.54);
+    font-weight: 400;
+}
+
+/* CONTACT */
+.contact-form input,
+textarea {
+    border-radius: 0 !important;
+    height: 45px;
+}
+#validationTextarea {
+    height: 210px;
+}
+.btn-submit {
+    background-color: #353a40;
+}
+.map-container-6{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-container-6 iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+.footer {
+    padding-top: 40px;
+}
