@@ -1,18 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
 
 * {
     font-family: 'Roboto', sans-serif;
 }
-.font-fredoka {
-    font-family: 'Fredoka One', cursive;
-}
 .list-group-item {
     border: none !important;
 }
-.bg-grape {
+.navbar-brand-name {
+    display: block;
+    left: 50%;
+    position: absolute;
+}
+.footer {
+    padding-top: 40px;
+}
+
+/* ABOUT ME */
+.bg-cardheader {
     background-color: #353a40;
 }
+
+/* GALLERY */
 .badge-secondary {
     background-color: rgba(0, 0, 0, 0.05);
     line-height: 22px;
@@ -46,7 +54,4 @@ textarea {
     height:100%;
     width:100%;
     position:absolute;
-}
-.footer {
-    padding-top: 40px;
 }
