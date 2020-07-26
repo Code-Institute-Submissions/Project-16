@@ -38,14 +38,14 @@ This is a four page website, designed with the following in mind:
 
 ## Features ##
 * The navigation bar follows Bootstrap's breakpoints and is responsive for small, medium and large screens. The links in the navigation bar changes to a light grey color when hover over, to indicate that it is a link that user can click on which will bring them to another page of the website.
-* **Home**
+* **Home**  
 The page features a hero image right below the navigation bar, followed by a write up on the services provided and a screenshot of a client's website.
 A back-to-top button is provided at the bottom right to allow users to quickly navigate to the top of the page, without scrolling.
-* **About Me**
+* **About Me**  
 An introduction on my education background, work experience and skill set.
-* **Photography**
+* **Photography**  
 A gallery of some of the photos wich I have taken, with the location details.
-* **Contact**
+* **Contact**  
 A contact form to enable users to send me a message
 
 Future features
