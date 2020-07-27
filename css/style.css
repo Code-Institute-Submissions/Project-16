@@ -6,11 +6,6 @@
 .list-group-item {
     border: none !important;
 }
-.navbar-brand-name {
-    display: block;
-    left: 50%;
-    position: absolute;
-}
 .footer {
     padding-top: 40px;
 }
